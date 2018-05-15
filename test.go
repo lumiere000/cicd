@@ -21,5 +21,4 @@ func getUserName() string {
 
 // entrypoint function for our app
 func main() {
-	fmt.Printf("Hello, %s\n", getUserName())
-}
+fmt.Printf("Hello, %s\n", getUserName())
